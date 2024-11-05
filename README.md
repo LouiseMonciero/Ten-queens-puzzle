@@ -1,2 +1,3 @@
-# Ten-queens-puzzle
-A preview of 42 piscine
+# Ten Queens Puzzle
+
+This is a C function resolving the ten queens puzzle using the concept of BackTracking.
